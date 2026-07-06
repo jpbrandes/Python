@@ -1,7 +1,7 @@
 # Python
-Esse repositório é para códigos e scripts de Python
+That repository is for python code.
 
 ---
 
 ## HardwareInfo.py
-Script em desenvolvimento usado para verificação de hardware
+A verification script that analyzes hardware integrity.
