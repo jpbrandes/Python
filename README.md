@@ -15,3 +15,8 @@ A basic Python folder that teaches basic variable manipulation.
 
 ## Conditional
 A Python folder that teaches conditional flow on Python.
+
+---
+
+## Lists
+A python repo that teaches about lists. 
