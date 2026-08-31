@@ -1,7 +1,10 @@
 # Python
-That repository is for python code.
+That repository is for Python code.
 
 ---
 
-## HardwareInfo.py
-A verification script that analyzes hardware integrity (CURRENTLY ON DEVELOPMENT).
+## Scripts
+A folder that contains scripts for various use cases.
+
+## Variable
+A basic Python folder that teaches basic variable manipulation.
