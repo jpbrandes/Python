@@ -19,4 +19,19 @@ A Python folder that teaches conditional flow on Python.
 ---
 
 ## Lists
-A python repo that teaches about lists. 
+A Python repo that teaches about lists. 
+
+---
+
+## Functions 
+A Python folder that teaches about functions. A important topic for code modularity.
+
+---
+
+## Dictionaries
+A better type of list, that support any type of data.
+
+---
+
+## Loops
+Standard loops, used in any programming language.
