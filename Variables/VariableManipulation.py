@@ -33,3 +33,12 @@ print(f'{phone_number}')
 
 favourite_color = input("What is your favorite color: ")
 print(f'{favourite_color}')
+
+''' To declare a number input
+ 
+first_number = input('Type the first integer number: ') 
+second_number = input('Type the second integer number: ')
+print(f'{first_number} * {second_number} = {int(first_number) * int(second_number)} ')
+
+
+'''
