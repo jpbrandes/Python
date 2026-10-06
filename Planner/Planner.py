@@ -31,6 +31,8 @@ class GerenciadorContatos:
     def criar(self, email, nome, telefone):
         if email in self.contatos:
             return False, "Este e-mail já está cadastrado."
+        if not telefone.isdigit():
+            return False, "Telefone inválido: contém letras."
         self.contatos[email] = {"nome": nome, "telefone": telefone}
         self.salvar_dados()
         return True, "Contato cadastrado com sucesso."
